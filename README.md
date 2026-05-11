@@ -37,3 +37,5 @@ the detail is writing in tow languges first persian and then english
  توجه داشته باشید که باید در بخش ip adress  عدد 127.0.0.1 نوشته شده و در بخش port باید عدد 8085 نوشته شده باشد 
 
  در بخش زیرین باید این عبارت باشد : 
+
+
