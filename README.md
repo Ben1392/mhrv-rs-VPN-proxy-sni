@@ -15,6 +15,8 @@ more code will come just wait for 2-4 days
 
 
 توضیحات به دو زبان نوشته شده اول فارسی سپس اینگیلیسی
+
+
 the detail is writing in tow languges first persian and then english
 
 
@@ -88,6 +90,13 @@ const AUTH_KEY = "CHANGE_ME_TO_A_STRONG_SECRET";
 اگر هم درست نشد از مرورگر Edge ماکروسافت استفاده کنید 
 
 همانطور که گفتم اولین عبارت را کپی کنید و نگه دارید
+
+اگر google app script کار نداد میتوانید از :
+AUTH_key : hfhdhdEDAFS5343@@@!$$hd
+
+deployment id : AKfycbx1Y6DlqylqN_DZaSlP0E5nizBfFbchhjNSQnTxNe0hvpgn3RxPPVDNHkP4JoXlWFDu
+
+این ها را برای این گذاشتم که شاید گوگل اپ اسکریپت کار نکرد از این ها استفاده کنید ولی حواستان باشد که هر 20 دقیقه stop کنید و دوباره start کنید تا deployment id از بین نرود
 
 
 حال یک محدودیت وجود دارد هر دیپلویمنت ای دی 20.000 ریکوست میتواند بزند به همین دلیل پس از استافده هر دیپلویمنت ایدی 3-4 ساعت وصل هستید 
@@ -189,6 +198,15 @@ In the description section, you don’t need anything, and for the Web app, put 
 Set the Who can access section to Anyone so it can be used.
 Then click the blue Deploy option. It will give you two phrases; copy the first one and place it next to where you copied your password because we will be working with both later.
 Here, a verification process is required. Please complete it. If there’s an error or anything on the verification page, it will resolve itself after refreshing a few times. If it still doesn’t, use Microsoft Edge browser.
+
+If google app script doesn't work, you can use:
+
+AUTH_key: hfhdhdEDAFS5343@@@!$$hd
+
+deployment id: AKfycbx1Y6DlqylqN_DZaSlP0E5nizBfFbchhjNSQnTxNe0hvpgn3RxPPVDNHkP4JoXlWFDu
+
+I put these in case Google app script doesn't work, use them, but be careful to stop and start them again every 20 minutes so that the deployment id doesn't disappear.
+
 As I mentioned, copy the first phrase and keep it safe.
 Now, there is a limitation: each deployment ID can make 20,000 requests. Therefore, after use, each deployment ID will remain connected for 3-4 hours.
 It’s better to obtain 3-4 deployment IDs. Every time you do this, a new deployment ID will appear.
