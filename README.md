@@ -6,6 +6,9 @@ more code will come just wait for 2-4 days
 
 یه اپلیکیشن برای ایرانی های که بتونن به اینترنت وصل بشن !
 
+تا زمانی که این پیام را میبینید یعنی هنوز فایل ها تکمیل نشده است و لطفا برای استفاده صبر کنید
+
+
 بقیه کد ها در چند روز اینده میاد منتظر باشین 
 
 
@@ -138,6 +141,8 @@ const AUTH_KEY = "CHANGE_ME_TO_A_STRONG_SECRET";
 
 
 english :
+
+Until you see this message, it means the files are not yet complete and please wait to use.
 
 Warning: To ensure proper functioning, read the entire instructions first, then proceed.
 This application works incredibly:
